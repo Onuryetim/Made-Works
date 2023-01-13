@@ -93,5 +93,5 @@ CONNECTION DIAGRAM
 
 - Hobby Project
 
-![Uygulama Ekran Görüntüsü](figure/Black-Lightning.png)
+![Uygulama Ekran Görüntüsü](figure/Black-Lightning.PNG)
 
