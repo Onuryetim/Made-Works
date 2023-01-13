@@ -54,9 +54,14 @@ MOBILE APP
 
 ![Uygulama Ekran Görüntüsü](figure/Motor_Driver.png)
 
-![Uygulama Ekran Görüntüsü]()
+CIRCUIT
 
-![Uygulama Ekran Görüntüsü]()
+![Uygulama Ekran Görüntüsü](figure/circuit.PNG)
+
+
+PCB 
+
+![Uygulama Ekran Görüntüsü](figure/pcb.PNG)
 
 ## SMART COMBI AUTOMATION 
 
