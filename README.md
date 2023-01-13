@@ -89,9 +89,9 @@ CONNECTION DIAGRAM
 ![Uygulama Ekran Görüntüsü](figure/ledComCircuit.png)
 
 
-## 
+## BLACK-LIGHTNING
 
+- Hobby Project
 
-
-![Uygulama Ekran Görüntüsü](figure/.png)
+![Uygulama Ekran Görüntüsü](figure/Black-Lightning.png)
 
