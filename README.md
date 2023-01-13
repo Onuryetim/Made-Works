@@ -59,10 +59,6 @@ CIRCUIT
 ![Uygulama Ekran Görüntüsü](figure/circuit.PNG)
 
 
-PCB 
-
-![Uygulama Ekran Görüntüsü](figure/pcb.PNG)
-
 ## SMART COMBI AUTOMATION 
 
 - Hobby Project
