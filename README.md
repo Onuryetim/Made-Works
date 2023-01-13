@@ -54,7 +54,9 @@ MOBILE APP
 
 ![Uygulama Ekran Görüntüsü](figure/Motor_Driver.png)
 
+![Uygulama Ekran Görüntüsü]()
 
+![Uygulama Ekran Görüntüsü]()
 
 ## SMART COMBI AUTOMATION 
 
