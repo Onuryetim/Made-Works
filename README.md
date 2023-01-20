@@ -23,7 +23,7 @@ WEB PAGE 1
 
 WEB PAGE 2
 
-![Uygulama Ekran Görüntüsü](figure/webpage2.PNG)
+![Uygulama Ekran Görüntüsü](figure/webpage_2.PNG)
 
 
 ## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
