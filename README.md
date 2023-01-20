@@ -16,9 +16,14 @@
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot.png)
 
 
-MOBILE APP 
+WEB PAGE 1
 
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot_mobile_app.PNG)
+
+
+WEB PAGE 2
+
+![Uygulama Ekran Görüntüsü](figure/webpage2.PNG)
 
 
 ## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
