@@ -93,7 +93,7 @@ MOBILE APP
 
 - Hobby Project
  
-![Uygulama Ekran Görüntüsü](figure/hc05RelayControl.png)
+
 
 
 MOBILE APP 
