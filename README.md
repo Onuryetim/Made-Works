@@ -2,6 +2,7 @@
 
 - SMART CLEANING ROBOT
 - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
+- SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - DC MOTOR DRIVER 
 - SMART COMBI AUTOMATION
 - HC-05 RELAY LED CONTROLLER
@@ -37,11 +38,6 @@ WEB PAGE 2
 
 
 
-VERSION 2.0 SOLAR TRACKİNG - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
-
-
-
-![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
 
 
 
@@ -60,6 +56,17 @@ COMPUTER INTERFACE
 MOBILE APP 
 
 ![Uygulama Ekran Görüntüsü](figure/lipo_mobile_app.png)
+
+
+
+## SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
+
+
+
+![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
+
+
+
 
 
 
