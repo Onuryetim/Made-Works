@@ -59,9 +59,9 @@ MOBILE APP
 
 ![Uygulama Ekran Görüntüsü](figure/Motor_Driver.png)
 
-CIRCUIT
 
-![Uygulama Ekran Görüntüsü](figure/circuit.PNG)
+
+
 
 
 ## SMART COMBI AUTOMATION 
