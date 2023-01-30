@@ -102,7 +102,7 @@ MOBILE APP
 
 CIRCUIT
 
-![Uygulama Ekran Görüntüsü](figure/Hc05relay5.png)
+![Uygulama Ekran Görüntüsü](figure/Hc05relay6.png)
 
 
 
