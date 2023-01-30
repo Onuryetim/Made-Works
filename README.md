@@ -36,9 +36,15 @@ WEB PAGE 2
 ![Uygulama Ekran Görüntüsü](figure/lipo.png)
 
 
-VERSION 2.0 SOLAR TRACKİNG / LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
+
+VERSION 2.0 SOLAR TRACKİNG - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
+
+
 
 ![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
+
+
+
 
 
 MENU DESIGN 
