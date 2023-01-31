@@ -38,11 +38,6 @@ WEB PAGE 2
 
 
 
-
-
-
-
-
 MENU DESIGN 
 
 ![Uygulama Ekran Görüntüsü](figure/lipo_menu.png)
@@ -64,8 +59,6 @@ MOBILE APP
 
 
 ![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
-
-
 
 
 
@@ -94,8 +87,6 @@ MOBILE APP
 - Hobby Project
  
 
-
-
 MOBILE APP 
  
 ![Uygulama Ekran Görüntüsü](figure/hc05RelayMobile.png)
@@ -103,7 +94,6 @@ MOBILE APP
 CIRCUIT
 
 ![Uygulama Ekran Görüntüsü](figure/Hc05relay6.png)
-
 
 
 
