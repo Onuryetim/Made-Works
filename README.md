@@ -123,5 +123,5 @@ CONNECTION DIAGRAM
 
 - Hobby Project
 
-![Uygulama Ekran Görüntüsü](Onuryetim/Net-Forms/blob/main/Figure/kütle-3.PNG)
+![Uygulama Ekran Görüntüsü](Figure/kütle-3.PNG)
 
