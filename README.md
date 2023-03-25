@@ -123,5 +123,5 @@ CONNECTION DIAGRAM
 
 - Hobby Project
 
-![Uygulama Ekran Görüntüsü](Figure/kütle-3.PNG)
+![Uygulama Ekran Görüntüsü](figure/kütle-3.PNG)
 
