@@ -119,3 +119,9 @@ CONNECTION DIAGRAM
 
 ![Uygulama Ekran Görüntüsü](figure/Black-Lightning.PNG)
 
+## BMI
+
+- Hobby Project
+
+![Uygulama Ekran Görüntüsü](Onuryetim/Net-Forms/blob/main/Figure/kütle-3.PNG)
+
