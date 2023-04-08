@@ -3,7 +3,6 @@
 - SMART CLEANING ROBOT
 - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
-- DC MOTOR DRIVER 
 - SMART COMBI AUTOMATION
 - HC-05 RELAY LED CONTROLLER
 - LED COMMUNICATION 
@@ -63,14 +62,6 @@ MOBILE APP
 ![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
 
 
-
-
-## DC MOTOR DRIVER
-
-- Hobby Project
-
-
-![Uygulama Ekran Görüntüsü](figure/Motor_Driver.png)
 
 
 
