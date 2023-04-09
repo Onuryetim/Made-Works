@@ -104,11 +104,7 @@ CONNECTION DIAGRAM
 ![Uygulama Ekran Görüntüsü](figure/ledComCircuit.png)
 
 
-## KNIGHT-RIDER
 
-- Hobby Project
-
-![Uygulama Ekran Görüntüsü](figure/Black-Lightning.PNG)
 
 ## BMI
 
