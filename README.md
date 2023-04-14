@@ -4,7 +4,6 @@
 - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SMART COMBI AUTOMATION
-- HC-05 RELAY LED CONTROLLER
 - LED COMMUNICATION
 - BMI 
 
@@ -64,27 +63,12 @@ MOBILE APP
 
 
 
-
-
 ## SMART COMBI AUTOMATION 
 
 - Hobby Project
 
 ![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
-
-## HC-05 LED CONTROLLER
-
-- Hobby Project
- 
-
-MOBILE APP 
- 
-![Uygulama Ekran Görüntüsü](figure/hc05RelayMobile.png)
-
-CIRCUIT
-
-![Uygulama Ekran Görüntüsü](figure/Hc05relay6.png)
 
 
 
