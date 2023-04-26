@@ -3,6 +3,7 @@
 - SMART CLEANING ROBOT
 - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
+- IR REMOTE RGB LED CONTROLLER FOR RASPBERRY Pİ PİCO
 - SMART COMBI AUTOMATION
 - LED COMMUNICATION
 
@@ -60,12 +61,18 @@ MOBILE APP
 
 
 
+## IR REMOTE RGB LED CONTROLLER FOR RASPBERRY Pİ PİCO
 
+
+![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
+
+
+![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
 
 
 ## SMART COMBI AUTOMATION 
 
-- Hobby Project
+
 
 ![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
@@ -80,7 +87,7 @@ v2.0
 
 ## LED COMMUNICATION 
 
-- Hobby Project
+
 
 ![Uygulama Ekran Görüntüsü](figure/ledCom.png)
 
