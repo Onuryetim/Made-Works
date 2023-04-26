@@ -64,7 +64,7 @@ MOBILE APP
 ## IR REMOTE RGB LED CONTROLLER FOR RASPBERRY Pİ PİCO
 
 
-![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/Micropython-Rgb-Led-Remote/main/Figure/ir_remote_rgb_2.PNG?token=GHSAT0AAAAAACB4XBP5XMIVVDLD3OFLOIS6ZCJEHSQ)
 
 
 ![Uygulama Ekran Görüntüsü](figure/Lipo4.jpg)
