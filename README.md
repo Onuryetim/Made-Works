@@ -70,6 +70,11 @@ MOBILE APP
 ![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
 
+v2.0
+
+![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/SMART-COMBI-AUTOMATION/blob/main/figure/smart_combi_deneme.PNG)
+
+
 
 
 
