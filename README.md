@@ -80,7 +80,7 @@ MOBILE APP
 
 v2.0 Beta 
 
-![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/SMART-COMBI-AUTOMATION/blob/main/figure/smart_combi_deneme.PNG)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/smart_combi_deneme.png)
 
 
 
