@@ -5,7 +5,7 @@
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - IR REMOTE RGB LED CONTROLLER 
 - SMART COMBI AUTOMATION
-
+- OPENCV
 
 
 ## SMART CLEANING ROBOT
@@ -92,7 +92,10 @@ v2.0 Beta
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/termostat_2.PNG)
 
--OPENCV
+- OPENCV
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/Fenerbahce.jpg)
 
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/filtered%20merged%20fb%20images.jpg)
+
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/siyah%20beyaz%20resim.gif)
