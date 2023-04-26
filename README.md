@@ -84,14 +84,14 @@ v2.0 Beta
 
 
 
-- edit project
 
+- Edit Project
 
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/termostat_1.PNG)
 
 
-![Uygulama Ekran Görüntüsü]()
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/termostat_2.PNG)
 
 
 ## LED COMMUNICATION 
