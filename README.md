@@ -65,9 +65,9 @@ MOBILE APP
 
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/Micropython-Rgb-Led-Remote/main/Figure/ir_remote_rgb_3.PNG?token=GHSAT0AAAAAACB4XBP5E2J4WXNV7AQQADJ4ZCJEJDQ)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/ir_remote_rgb_2.png)
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/Micropython-Rgb-Led-Remote/main/Figure/ir_remote_rgb_2.PNG?token=GHSAT0AAAAAACB4XBP547CMH747VILOWZMWZCJELJA)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/ir_remote_rgb_3.png)
 
 
 
@@ -88,10 +88,10 @@ v2.0 Beta
 
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/SMART-COMBI-AUTOMATION/main/figure/termostat_1.PNG?token=GHSAT0AAAAAACB4XBP5GROLXRDUYWVISHUQZCJEVTA)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/termostat_1.PNG)
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/SMART-COMBI-AUTOMATION/main/figure/termostat_2.PNG?token=GHSAT0AAAAAACB4XBP5GY6MMNTU2GUEEVCEZCJEV5A)
+![Uygulama Ekran Görüntüsü]()
 
 
 ## LED COMMUNICATION 
