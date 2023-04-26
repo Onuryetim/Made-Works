@@ -5,7 +5,7 @@
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SMART COMBI AUTOMATION
 - LED COMMUNICATION
-- BMI 
+
 
 ## SMART CLEANING ROBOT
 
@@ -87,10 +87,4 @@ CONNECTION DIAGRAM
 
 
 
-
-## BMI
-
-- Hobby Project
-
-![Uygulama Ekran Görüntüsü](figure/kütle-3.PNG)
 
