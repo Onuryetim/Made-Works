@@ -78,12 +78,20 @@ MOBILE APP
 ![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
 
-v2.0
+v2.0 Beta 
 
 ![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/SMART-COMBI-AUTOMATION/blob/main/figure/smart_combi_deneme.PNG)
 
 
 
+- edit project
+
+
+
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/SMART-COMBI-AUTOMATION/main/figure/termostat_1.PNG?token=GHSAT0AAAAAACB4XBP5GROLXRDUYWVISHUQZCJEVTA)
+
+
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/SMART-COMBI-AUTOMATION/main/figure/termostat_2.PNG?token=GHSAT0AAAAAACB4XBP5GY6MMNTU2GUEEVCEZCJEV5A)
 
 
 ## LED COMMUNICATION 
