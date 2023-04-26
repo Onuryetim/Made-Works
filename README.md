@@ -5,7 +5,7 @@
 - SOLAR TRACKING - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - IR REMOTE RGB LED CONTROLLER 
 - SMART COMBI AUTOMATION
-- LED COMMUNICATION
+
 
 
 ## SMART CLEANING ROBOT
@@ -84,7 +84,6 @@ v2.0 Beta
 
 
 
-
 - Edit Project
 
 
@@ -93,18 +92,6 @@ v2.0 Beta
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/termostat_2.PNG)
 
-
-## LED COMMUNICATION 
-
-
-
-![Uygulama Ekran Görüntüsü](figure/ledCom.png)
-
-
-CONNECTION DIAGRAM
-
-
-![Uygulama Ekran Görüntüsü](figure/ledComCircuit.png)
 
 
 
