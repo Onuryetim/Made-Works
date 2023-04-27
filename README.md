@@ -10,8 +10,6 @@
 
 ## SMART CLEANING ROBOT
 
-- Gümüşhane University
-- Design Project
 
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot.png)
 
@@ -28,9 +26,7 @@ WEB PAGE 2
 
 ## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 
-- Gümüşhane University
-- Bachelor Thesis
-- Project Partner: Mert Can Tıkman
+
 
 
 ![Uygulama Ekran Görüntüsü](figure/lipo.png)
