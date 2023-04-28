@@ -40,7 +40,7 @@ MENU DESIGN
 
 COMPUTER INTERFACE
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/computer_interface.PNG)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/computer_interface_2.PNG)
 
 
 
