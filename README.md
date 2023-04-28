@@ -40,12 +40,10 @@ MENU DESIGN
 
 COMPUTER INTERFACE
 
-![Uygulama Ekran Görüntüsü](figure/lipo_computer_interface.png)
+![Uygulama Ekran Görüntüsü]()
 
 
-MOBILE APP 
 
-![Uygulama Ekran Görüntüsü](figure/lipo_mobile_app.png)
 
 
 
