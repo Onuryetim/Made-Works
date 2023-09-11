@@ -90,8 +90,12 @@ v2.0 Beta
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/Fenerbahce.jpg)
 
+
+![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/PROJECTS/blob/main/figure/Lewandowski-EnnerValencia-Haaland.jpg)
+
+
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/filtered%20merged%20fb%20images.jpg)
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/siyah%20beyaz%20resim.gif)
 
-![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/PROJECTS/blob/main/figure/Lewandowski-EnnerValencia-Haaland.jpg)
+
