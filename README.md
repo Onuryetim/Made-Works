@@ -94,4 +94,4 @@ v2.0 Beta
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/PROJECTS/main/figure/siyah%20beyaz%20resim.gif)
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/Onuryetim/EESEC-448-Image-Processing/main/figure/Lewandowski-EnnerValencia-Haaland.jpg?token=GHSAT0AAAAAACFDQOP4YGZ36LG6Z34T4YEAZFRYNNA)
+![Uygulama Ekran Görüntüsü](https://github.com/Onuryetim/PROJECTS/blob/main/figure/Lewandowski-EnnerValencia-Haaland.jpg)
